@@ -33,7 +33,9 @@ angular.module('GoogleCalendar', []).directive('googleCalendar', function(){
         hideTitle: false,
         sanitize: sanitize,
         dateTimeFilter: 'd. MMM HH.mm',
-        dateFilter: 'd. MMM'
+        dateFilter: 'd. MMM',
+        htmlDesc: false,
+        calendar_name: false
       };
 
       $scope.gcConfig = angular.extend(defaults, $scope.gcConfig);
