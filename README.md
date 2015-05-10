@@ -1,6 +1,6 @@
 ## Google calendar directive
 
-A demo is provided in demo
+A demo is provided in `demo` and in this [plunker](http://plnkr.co/edit/nXKq33ngxO1SlxkVDtlu?p=preview)
 
 ### Use
 
